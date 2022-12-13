@@ -1,3 +1,3 @@
 # applications.py.io
 
-The folder contains applications I did in Python and its libraries.
+The folder contains applications I did using Python and its libraries. Refer to subfolder for each description.
