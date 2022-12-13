@@ -1,4 +1,4 @@
-I created a Flask Todo App on Python & deploy on Firebase. The app allows user to write what they want to do, update or remove it.
+I created a Todo App on Python using Flask framework. The app allows user to write what they want to do, update or remove it.
 
 ### Link - To deploy in Firebase
 
